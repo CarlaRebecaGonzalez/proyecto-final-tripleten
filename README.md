@@ -11,16 +11,20 @@ Steelproof, una planta siderúrgica, busca optimizar los costos de producción r
 
 Comprender claramente qué se quiere predecir y por qué. Alinear el objetivo técnico del modelo con el objetivo del negocio.
 
-3. Exploración y análisis de datos (EDA)
+2. Exploración y análisis de datos (EDA):
+
 Revisar estructura del dataset, tipos de datos, valores nulos o inconsistentes. Visualizar la distribución de variables, detectar outliers y correlaciones clave.
 
-4. Procesamiento y limpieza de datos
+3. Procesamiento y limpieza de datos:
+
 Imputar valores faltantes, eliminar duplicados, convertir tipos de datos incorrectos y codificar variables categóricas. Aplicar ingeniería de características si es necesario.
 
-5. Entrenamiento y validación del modelo
+4. Entrenamiento y validación del modelo:
+
 Separar los datos en entrenamiento y prueba (o usar validación cruzada). Entrenar diferentes modelos (regresión logística, árboles, etc.), comparar su rendimiento y elegir la mejor opción según la métrica prioritaria.
 
-6. Evaluación final e informe
+5. Evaluación final e informe:
+
 Interpretar los resultados, identificar variables importantes y preparar un informe con conclusiones, recomendaciones y próximos pasos para implementación o mejora.
 
 ## Instrucciones de Instalación 🛠️
