@@ -1,6 +1,16 @@
+# Proyecto final – Bootcamp Data Science 🧠
+
+Este proyecto fue realizado como parte del Bootcamp de TripleTen, con el objetivo de aplicar técnicas de análisis de datos y machine learning a un caso de negocio.
+
 # Proyecto final Tripleten
 Desarrollo de un modelo de aprendizaje automático capaz de predecir la última temperatura medida del acero fundido durante el procesamiento en cuchara.
 
+## 📌 Tecnologías utilizadas
+
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- SQL
+- Jupyter Notebook
+- Tableau (visualización final)
 
 ## Objetivo del negocio
 Steelproof, una planta siderúrgica, busca optimizar los costos de producción reduciendo el consumo energético durante el procesamiento del acero. Dado que el calentamiento del acero representa un gasto importante, es clave predecir con precisión la temperatura final del metal para evitar sobrecalentamientos innecesarios o insuficientes que impliquen más ciclos de ajuste, y por lo tanto, mayor uso de energía y recursos.
