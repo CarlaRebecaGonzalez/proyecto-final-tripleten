@@ -37,6 +37,3 @@ Separar los datos en entrenamiento y prueba (o usar validación cruzada). Entren
 
 Interpretar los resultados, identificar variables importantes y preparar un informe con conclusiones, recomendaciones y próximos pasos para implementación o mejora.
 
-## Instrucciones de Instalación 🛠️
-1. Clona este repositorio en tu máquina local
-2. Entra a https://project-repo-jkax.onrender.com/ para verlo :)
