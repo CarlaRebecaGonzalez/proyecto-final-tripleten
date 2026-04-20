@@ -2,7 +2,7 @@
 
 Este proyecto fue realizado como parte del Bootcamp de TripleTen, con el objetivo de aplicar técnicas de análisis de datos y machine learning a un caso de negocio.
 
-# Proyecto final Tripleten
+# Descripción del proyecto
 Desarrollo de un modelo de aprendizaje automático capaz de predecir la última temperatura medida del acero fundido durante el procesamiento en cuchara.
 
 ## 📌 Tecnologías utilizadas
